@@ -15,5 +15,6 @@ parte de la mision se esplicara en persona
 durante la reunion previa a la mision  
 
 reunion:  dia viernes 11-11-22
+la mision sera al dia sabado por la noche
 
 operacion 1 : intruding wraiths
