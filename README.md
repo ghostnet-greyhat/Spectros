@@ -4,7 +4,7 @@ informacion protegida por contraseña
 
 para que los spectros sepan los datos de la mision
 
-la contraseña sera pasada al grupo hackers spectros
+la contraseña del spectrum.rar sera pasada al grupo hackers spectros
 
 para mayor discrecion de la informacion clave
 
@@ -12,6 +12,8 @@ para mayor discrecion de la informacion clave
  
 parte de la mision se esplicara en persona 
 
-durante la reunion previa a la mision 
+durante la reunion previa a la mision  
+
 reunion:  dia viernes 11-11-22
+
 operacion 1 : intruding wraiths
