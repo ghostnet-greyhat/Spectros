@@ -1,5 +1,4 @@
-# team: fuerzas Spectros 
-# team hackers spectros
+# team: fuerzas Spectros // team hackers spectros
 
 informacion protegida por contraseña
 
