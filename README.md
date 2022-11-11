@@ -1,4 +1,4 @@
-# team: fuerzas Spectros // team hackers spectros
+# team: spectro forces // mision : intruding wraiths
 
 informacion protegida por contraseña
 
