@@ -1,4 +1,5 @@
-# team Spectros 
+# team: fuerzas Spectros 
+# team hackers spectros
 
 informacion protegida por contraseña
 
@@ -10,4 +11,8 @@ para mayor discrecion de la informacion clave
 
  para la mision especial : intruding wraiths
  
-#team-hackers spectros
+parte de la mision se esplicara en persona 
+
+durante la reunion previa a la mision 
+reunion:  dia viernes 11-11-22
+operacion 1 : intruding wraiths
